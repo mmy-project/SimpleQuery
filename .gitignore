@@ -1,0 +1,12 @@
+﻿*.jar
+
+.classpath
+.project
+
+*.iml
+*.ipr
+*.iws
+.idea/
+target/
+bin/
+logs/
